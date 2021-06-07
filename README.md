@@ -1,1 +1,2 @@
-# lprs2
+# lprs2 projekat
+Journey of the Prairie King
